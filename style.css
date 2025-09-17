@@ -110,24 +110,24 @@
     }
     
     .body-section .body-text {
-        width: 800px;
+        width: 700px;
     }
     
     .body-section .body-text h1 {
-        font-size: 80px;
+        font-size: 70px;
         line-height: 1.2;
         text-align: left;
     }
     
     .body-section .body-text p {
         margin-top: 20px;
-        font-size: 23px;
+        font-size: 21px;
         color: brown;
         text-align: left;
     }
     
     .body-image {
-        width: 500px;
+        width: 400px;
     }
     
     .body-section .body-image img {
@@ -630,4 +630,5 @@
     .back-btn.remove {
         opacity: 0;
         visibility: hidden;
+
     }
